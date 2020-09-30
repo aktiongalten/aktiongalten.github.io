@@ -1,0 +1,111 @@
+#+TITLE: Aktion Rädda Galten
+#+EMAIL: info@afsl.se
+#+SUBTITLE:
+#+OPTIONS: toc:nil ^:nil num:nil
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
+#+KEYWORDS: Galten, Lund, Arkitektupproret,
+#+LANGUAGE: sv
+#+DESCRIPTION: Hemsida för att rädda galten
+
+# Stylesheet from:
+# https://github.com/gongzhitaao/orgcss
+
+* Inledning - i korthet
+  Lunds kommun ämnar modernisera och riva historiska hus i kvarteret Galten,
+  vid Mårtenstorget, bland annat planeras ett 12-våningshus byggas. Sista dag
+  att lämna synpunkter till kommunen blir den 26 oktober.
+  - [[https://www.lund.se/globalassets/lund.se/traf_infra/detaljplaner-och-omra/kvarteret-galten/kvgaltenplankarta-2020-05-29.pdf][Lunds Kommun - Plankarta]] (pdf)
+  - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Lunds Kommun - Kvarteret Galten]]
+  - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
+
+
+
+  Istället för att bygga smakfult i en stil som passar in, (se tex.
+  [[http://www.arkitekturupproret.se/2017/04/09/nyurbanism/][nyurbanism]]), väljer lunds kommun att bygga bla. 12-våningshus, som kommer
+  konkurera mot Lundapågarna i Lunds stadsprofil.
+
+* "Vad kan jag göra"?
+** Skriv under och/eller ring till Kommunen!
+   Skriv ut och skriv under nedan två A4-ark, och sprid vidare!
+   - [[file:pdfs/Galten handout1 - Synpunkter till samråd.pdf][Galten handout1 - Synpunkter till samråd.pdf]]
+   - [[file:pdfs/Galten handout2 - Vad vi kan göra slutversion.pdf][Galten handout2 - Vad vi kan göra slutversion.pdf]]
+** Nätverka på Facebook
+   Har du facebook kan du skriva under:
+   - både vår, Aktion Rädda Galten, [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlista]],
+   - och Arkitektupprorets [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
+
+* Kontakt
+  info@afsl.se
+
+* Appendix                                                         :noexport:
+** ARG - skrivunder.com
+
+Till Stadsbyggnadskontoret i Lunds kommun:
+
+Många lundabor känner stark oro inför den pågående planeringen av kvarteret
+Galten i Lund. Det nu aktuella förslaget till detaljplan våldför sig på den
+medeltida bebyggelse-, kvarters- och gatustrukturen och riskerar att skada
+hela kulturmiljön. Jag tycker att den föreslagna detaljplanen för kvarteret
+Galten är oacceptabel.
+
+12-våningstornet
+
+Det höga huset på 12 våningar är för högt och passar inte in i Lunds
+stadsbild. Husen i Lunds innerstad ska aldrig vara högre än fem våningar.
+Bostäderna i kv. Galten bör fördelas jämnare över hela kvarteret. Lund behöver
+inte heller ytterligare en stor biograf. Bygg istället både hyres- och
+bostadsrätter samt gärna seniorboende och bygg klassiska stadskvarter.
+
+Shoppinggallerian
+
+Jag tror inte att en shoppinggalleria behövs. Butiker bör vända sig mot gatan.
+
+Det nergrävda parkeringshuset
+
+Kostnaderna för kommunen med de arkeologiska utgrävningarna för
+parkeringsgaraget är för stora. Garaget kan kosta kommunen upp till 70
+miljoner men inte ge tillbaka några intäkter. Behåll Mårtenstorget som nu!
+
+Vårfruskolans skolgård
+
+Vårfruskolans elever får sin skolgård drastiskt minskad och instängd av höga
+hus. Kompensationen med en skolgård på betongtaket 4 m över busstationen är
+orimligt och barnfientligt.
+
+Bygg i lundaskalan med hänsyn till stadens historia och stadsbild
+
+Jag tycker också att kvarteret Galten ska bebyggas, men detta ska ske på ett
+varsamt sätt. Jag vill ha tillbaks gatorna, med hus på båda sidor.
+
+Alla äldre hus i kvarteret ska bevaras.
+
+Alla äldre hus i kvarteret ska bevaras, inte bara husraden mot Mårtenstorget.
+Den låga, äldre stadskärnan är Lunds största tillgång både för invånarna och
+för besökare.
+
+Gör om detaljplanen och gör rätt!
+** AU - skrivunder.com
+Byggnadsnämnden beslutade den 23 juni, 2020, att skicka förslaget till ny
+detaljplan vidare på samråd. Samrådet kommer att starta den 19 augusti, sista
+dag att lämna synpunkter blir den 26 oktober.
+
+Så som förslaget ser ut kommer en mindre del av det så kallade TePe-huset att
+rivas och resten av huset byggs om. Med en vidare öppning ska det bli mer
+inbjudande att röra sig mellan torget och innergården och vidare till
+busshållplatsen vid Bankgatan. Det innebär också att TePe-husets
+kulturhistoriska värden till en del kan återställas och göras mer synliga,
+även om många av dem har försvunnit i tidigare ombyggnader.
+
+Utöver ombyggnaden av TePe-huset föreslås också att gårdshus och uthus inne på
+gården rivs, tillsammans med den befintliga restaurangbyggnaden. Detta för att
+kunna skapa en större handelslokal i två plan. I en sammanvägning får alltså
+gårdshus och uthus får ge vika medan den småskaliga bebyggelsen och mot den
+inre mötesplatsen bevaras.
+
+
+Lunds kommun måste börja värna om stadens historiska miljöer. Lund är inte
+blaffiga 12-våningshus, det är de små radhusen med klängrosorna, det är de
+historiska byggnaderna som människor besökt i 1000 år. Det är dessa turisterna
+kommer för att se, det är dessa lundaborna är stolta över. Håller du med?
+Skriv under!
