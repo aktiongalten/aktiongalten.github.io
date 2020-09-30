@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil ^:nil num:nil
 #+OPTIONS: html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
-#+KEYWORDS: Galten, Lund, Arkitektupproret,
+#+KEYWORDS: Galten, Lund, Arkitekturupproret
 #+LANGUAGE: sv
 #+DESCRIPTION: Hemsida för att rädda galten
 
@@ -21,12 +21,12 @@
   - Lunds Kommun
     - [[https://www.lund.se/globalassets/lund.se/traf_infra/detaljplaner-och-omra/kvarteret-galten/kvgaltenplankarta-2020-05-29.pdf][Plankarta]] (pdf)
     - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Kvarteret Galten]]
-  - Akritektupproret
+  - Arkitekturupproret
     - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
 
-  Istället för att bygga smakfult i en stil som passar in, (se tex.
+  Istället för att bygga smakfullt i en stil som passar in, (se tex.
   [[http://www.arkitekturupproret.se/2017/04/09/nyurbanism/][nyurbanism]]), väljer Lunds kommun att bygga bla. 12-våningshus, som kommer
-  konkurera mot Lundapågarna i Lunds stadsprofil.
+  konkurrera med Lundapågarna i Lunds stadsprofil.
 
   Wästbygg har redan börjat [[https://wastbyggvarahem.se/vara-hem/maartenstorgets-nya-upplevelsekvarter/][annonsera]] ut de tilltänkta lägenheterna.
 * "Vad kan jag göra?"
@@ -47,7 +47,7 @@
 ** Nätverka på Facebook
    Har du facebook kan du skriva under:
    - både vår, Aktion Rädda Galten, [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlista]],
-   - och Arkitektupprorets [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
+   - och Arkitekturupproret [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
    - gå med i AFSLs facebook-grupp (LÄNK!)
 ** Tala med vänner, bekanta och grannar
    Sprid vad man kan göra: mejla för kännedom till alla tänkbara. Be dem att
