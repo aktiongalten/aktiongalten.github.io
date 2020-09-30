@@ -11,6 +11,8 @@
 # Stylesheet from:
 # https://github.com/gongzhitaao/orgcss
 
+[[file:img/DSC_0077-650x433.jpg]]
+
 * Inledning - i korthet
   Lunds kommun ämnar modernisera och riva historiska hus i kvarteret Galten,
   vid Mårtenstorget, bland annat planeras ett 12-våningshus byggas. Sista dag
