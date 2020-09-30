@@ -13,32 +13,49 @@
 
 [[file:img/DSC_0077-650x433.jpg]]
 
-* Inledning - i korthet
+* Inledning --- i korthet
   Lunds kommun ämnar modernisera och riva historiska hus i kvarteret Galten,
   vid Mårtenstorget, bland annat planeras ett 12-våningshus byggas, en
   shoppinggalleria, och en stor biograf(!). Sista dag att lämna synpunkter
   till kommunen blir den 26 oktober.
-  - [[https://www.lund.se/globalassets/lund.se/traf_infra/detaljplaner-och-omra/kvarteret-galten/kvgaltenplankarta-2020-05-29.pdf][Lunds Kommun - Plankarta]] (pdf)
-  - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Lunds Kommun - Kvarteret Galten]]
-  - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
-
-
+  - Lunds Kommun
+    - [[https://www.lund.se/globalassets/lund.se/traf_infra/detaljplaner-och-omra/kvarteret-galten/kvgaltenplankarta-2020-05-29.pdf][Plankarta]] (pdf)
+    - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Kvarteret Galten]]
+  - Akritektupproret
+    - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
 
   Istället för att bygga smakfult i en stil som passar in, (se tex.
   [[http://www.arkitekturupproret.se/2017/04/09/nyurbanism/][nyurbanism]]), väljer lunds kommun att bygga bla. 12-våningshus, som kommer
   konkurera mot Lundapågarna i Lunds stadsprofil.
 
-* "Vad kan jag göra"?
-** Skriv under och/eller ring till Kommunen!
-   Skriv ut och skriv under nedan två A4-ark, och sprid vidare!
+  Wästbygg har redan börjat [[https://wastbyggvarahem.se/vara-hem/maartenstorgets-nya-upplevelsekvarter/][annonsera]] ut de tilltänkta lägenheterna.
+* "Vad kan jag göra?"
+  För att hjälpa till att stoppa förslaget på detaljplan för kv. Galten och det danska fastighetsbolaget
+  Norcap A/S hårda exploatering av kvarteret kan du göra flera saker:
+** Kontakta Lunds politiker
+   Mest effektivt är också att ringa dina lokalpolitiker, följ guide [[file:ring.org][här]].
+** Lämna synpunkter på detaljplanen till kommunen under samrådstiden t.o.m. 26/10 2020
+   Under samrådstiden kan invånarna i Lunds kommun ge synpunkter på kvarterets utformning.
+   Synpunkterna diarieförs och tas upp i byggnadsnämnden.
+   - Info och formulär för synpunkter digitalt [[https://www.lund.se/kvarteretgalten][www.lund.se/kvarteretgalten]]
+   - Som brev till: Stadsbyggnadskontoret, Box 41, 221 00 Lund
+
+   Här finner du färdigskrivet brev (pdf) att skriva under:
    - [[file:pdfs/Galten handout1 - Synpunkter till samråd.pdf][Galten handout1 - Synpunkter till samråd.pdf]]
    - [[file:pdfs/Galten handout2 - Vad vi kan göra slutversion.pdf][Galten handout2 - Vad vi kan göra slutversion.pdf]]
+
 ** Nätverka på Facebook
    Har du facebook kan du skriva under:
    - både vår, Aktion Rädda Galten, [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlista]],
    - och Arkitektupprorets [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
-* Kontakt
-  info@afsl.se
+** Tala med vänner, bekanta och grannar
+   Sprid vad man kan göra: mejla för kännedom till alla tänkbara. Be dem att
+   mejla vidare i sin tur. Lundabornas nätverk är ofta stora och ett effektivt
+   sätt att snabbt nå ut.
+* Bli medlem i AFSL
+  Bli medlem och hjälp vår aktionsgrupp ARG - Aktion Rädda Galten. Mejla namn, adress, mejladress
+  till info@afsl.se. Medlemsavgift 50 kr/år. Swisha Anitha Bruun 070- 622
+  80 72. Mer info på AFSLs facebook (TO-DO: länk!).
 
 * Appendix                                                         :noexport:
 ** ARG - skrivunder.com
@@ -110,3 +127,18 @@ blaffiga 12-våningshus, det är de små radhusen med klängrosorna, det är de
 historiska byggnaderna som människor besökt i 1000 år. Det är dessa turisterna
 kommer för att se, det är dessa lundaborna är stolta över. Håller du med?
 Skriv under!
+
+** Resources
+   Mainly: https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
+
+   Index: https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
+
+   - Subdomains are configured with a CNAME record through your DNS provider.
+   - A www subdomain is the most commonly used type of subdomain. For example,
+     www.example.com includes a www subdomain.
+   - An apex domain is a custom domain that does not contain a subdomain, such
+     as example.com. Apex domains are also known as base, bare, naked, root
+     apex, or zone apex domains. An apex domain is configured with an A,
+     ALIAS, or ANAME record through your DNS provider
+
+   - For more information: "[[https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site][Managing a custom domain for your GitHub Pages site]]"

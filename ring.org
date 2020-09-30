@@ -1,0 +1,55 @@
+#+TITLE: Kontakta politikerna
+#+EMAIL: info@afsl.se
+#+SUBTITLE:
+#+OPTIONS: toc:nil ^:nil num:nil
+#+OPTIONS: html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
+#+KEYWORDS: Galten, Lund, Arkitektupproret,
+#+LANGUAGE: sv
+#+DESCRIPTION: Kontakta din lokala politiker
+
+Det i särklass bästa du kan göra är att kontakta de politieker som röstade för förslaget:
+
+- Partier som röstade emot: C, Fi, FNL, V
+- Partier röstade för detaljplaneförslaget: KD, L, M, MP, S, SD
+
+* Vad du bör nämna
+
+- Nuvarande detaljplaneförslag för kv. Galten måste dras tillbaka.
+
+- Gör istället ett nytt förslag på detaljplan, med bostadshus byggda i
+  lundaskalan max 5 vån, i stil och material som passar i stadskärnan. Bygg
+  både hyres- och bostadsrätter samt gärna seniorboende och bygg klassiska
+  stadskvarter. Alla äldre hus i kvarteret skall bevaras.
+
+- Inget 12-vånings höghus och andra höga hus i 7-8 vån, shoppinggalleria, en
+  jättelik biograf vid Bankgatan, ny busstation m. skolgård på busstationens
+  tak, underjordiskt parkeringshus, etc.
+
+- Om andan faller på – nämn att om nuvarande detaljplan går igenom, är du
+  tyvärr tvingad att välja ett annat parti framöver, och att du ämnar
+  informera andra i din bekantskapskrets att göra det samma.
+
+* Politkernas kontaktuppgifter
+
+  #+CAPTION: Kontaktinformation till relevanta lokalpolitiker
+  | Ledamot i Kommunstyrelsen /            | Mejladress                   | Telefon                      |
+  | ledamot i Byggnadsnämnden              |                              |                              |
+  |----------------------------------------+------------------------------+------------------------------|
+  | Philip Sandberg (L)                    | philip.sandberg@lund.se      | 046-359 50 00                |
+  | Christoffer Karlsson (L)               | christoffer.karlsson@lund.se | 0701-46 89 19                |
+  |----------------------------------------+------------------------------+------------------------------|
+  | Fredrik Ljunghill (M)                  | fredrik.ljunghill@lund.se    | 046-359 50 00                |
+  | Klas Svanberg (M), ordf. i BN          | klas.svanberg@lund.se        | 0708-56 50 31                |
+  |----------------------------------------+------------------------------+------------------------------|
+  | Hedvig Åkesson (KD)                    | hedvig.akesson@lund.se       | 046-359 50 00                |
+  | Dimitros Afentoulis (KD)               | dimitros.afentoulis@lund.se  | 0736-37 57 37                |
+  |----------------------------------------+------------------------------+------------------------------|
+  | Anders Almgren (S)                     | anders.almgren@lund.se       | 0708-47 88 17                |
+  | Björn Abelson (S), 2:e vice ordf. i BN | bjorn.abelson@lund.se        | 046–359 50 00                |
+  |----------------------------------------+------------------------------+------------------------------|
+  | Karin Svensson Smith (MP)              | karin.svenssonsmith@lund.se  | 0721-94 05 44, 046-359 73 74 |
+  | Axel Hallberg (MP)                     | axel.hallberg@lund.se        | 046-359 50 00                |
+  |----------------------------------------+------------------------------+------------------------------|
+  | Hans-Olof Andersson (SD)               | hans-olof.andersson@lund.se  | 073-320 17 72, 046-12 38 42  |
+  | Dragan Brankovic (SD)                  | dragan.brankovic@lund.se     | 046-359 50 00                |
