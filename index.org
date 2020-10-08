@@ -1,6 +1,6 @@
-#+TITLE: Aktion Rädda Galten
+#+TITLE: AFSL
 #+EMAIL: info@afsl.se
-#+SUBTITLE:
+#+SUBTITLE: Aktionsgrupper För Samhällsbyggnad i Lunds kommun
 #+OPTIONS: toc:nil ^:nil num:nil
 #+OPTIONS: html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
@@ -11,65 +11,81 @@
 # Stylesheet from:
 # https://github.com/gongzhitaao/orgcss
 
+#+begin_export html
+<center>
+<i>AFSL är en nybildad politiskt obunden, ideell förening som är öppen för alla med intresse för samhällsbyggnad inom Lunds kommun</i>
+</center>
+#+end_export
+
+#+begin_export html
+<center><h2>
+AKTION RÄDDA GALTEN
+</center></h2>
+#+end_export
+
+ARG --- /Aktion Rädda kv. Galten/ är en grupp inom AFSL, som arbetar för att
+informera om och debattera planerna på att exploatera kv. Galten vid Mårtenstorget.
+
 #+ATTR_HTML: :class center no-border :width 50% :height
 [[file:img/höghus_carlsson.png]]
 
-* SKRIV UNDER!
-  Skriv under [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][HÄR]]! Så är du med i protesten mot att riva kvarteret Galten vid
-  Mårtenstorget, för att, bland annat, lämna plats åt 12 våningar högt höghus.
+Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* säger
+*NEJ* till:
 
-  Vill du veta mer, göra mer, maila info@afsl.se eller l.n@lennartnordarkitekt.se
+- *12-våningshus* i kvarter Galten intill Mårtenstorget.
+- *Förslaget att minska Vårfruskolans skolgård och låta barnen leka på taket till busshållplatsen.*
+- *Shoppinggalleria* med ingång från gården.
+- *Underjordiskt parkeringsgaragegarage i två plan på Mårtenstorget.* Kostnaden för de arkeologiska utgrävningarna innebär att kommunen enligt avtal i princip ger bort marken.
 
-  Ladda ner och sprid vår broschyr [[file:pdfs/ARGs folder om kv. Galten.pdf][här]] (pdf).
+* Vad kan jag som kommuninvånare göra?
+** 1. Skriv under
+   Skriv under [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][HÄR]] för att protestera mot förslaget.
 
-* "Vad kan jag göra?"
-  För att hjälpa till att stoppa förslaget på detaljplan för kv. Galten vid
-  Mårtenstorget, och det danska fastighetsbolaget Norcap A/S hårda
-  exploatering av kvarteret kan du göra flera saker:
-** 1. Kontakta Lunds politiker
-   Mest effektivt är också att ringa dina lokalpolitiker, följ guide [[file:ring.org][här]],
-   (eller som pdf [[file:pdfs/Galten - vad vi kan göra!.pdf][här]])
-** 2. Lämna synpunkter på detaljplanen till kommunen under samrådstiden t.o.m. 26/10 2020
+   Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]] eller [[mailto:l.n@lennartnordarkitekt.se][l.n@lennartnordarkitekt.se]]
+** 2. Kontakta Lunds politiker
+   Mest effektivt är att ringa dina lokalpolitiker, följ guide [[file:ring.org][här]], (eller som
+   pdf [[file:pdfs/Galten - vad vi kan göra!.pdf][här]]).
+** 3. Lämna synpunkter på detaljplanen till kommunen under samrådstiden t.o.m. 26/10 2020
    Under samrådstiden kan invånarna i Lunds kommun ge synpunkter på kvarterets utformning.
    Synpunkterna diarieförs och tas upp i byggnadsnämnden.
    - Info och formulär för synpunkter digitalt [[https://www.lund.se/kvarteretgalten][www.lund.se/kvarteretgalten]]
    - Som brev till: Stadsbyggnadskontoret, Box 41, 221 00 Lund
 
    Skriv ut färdigskrivet brev (pdf) [[file:pdfs/Galten - synpunkter till samråd om detaljplaneförslaget, Stadsbyggnadskontoret.pdf][här]] och skriv under!
-** 3. Sprid vidare
-   Sprid vad man kan göra via mejl och facebook för kännedom till alla
-   tänkbara. Be dem att mejla vidare i sin tur. Lundabornas nätverk är ofta
-   stora och ett effektivt sätt att snabbt nå ut.
+** 4. Sprid vidare
+   Sprid via *e-post* och *facebook* för kännedom till så många kommuninvånare
+   som möjligt. Be dem att sprida vidare. Lundabornas nätverk är ofta stora
+   och ett effektivt sätt att snabbt nå ut.
 
    Förslagsvis:
    - Gå med i [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook-grupp]],
-   - sprid vår [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlisa]]
-   - Sprid debatt-artikel: [[https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/][https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/]]
+   - Sprid vår [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlisa]]
+   - Sprid debattartikel av Thomas Hellquist:
+     [[https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/][https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/]]
      #   - och Arkitekturupproret [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
-   - Sprid/skriv ut vår broschyr, kan laddas ner [[file:pdfs/ARGs folder om kv. Galten.pdf][här]]
-   - Dela denna sidan med bekanta
+   - Skriv ut och sprid vår broschyr, kan laddas ner [[file:pdfs/ARGs folder om kv. Galten.pdf][här]]
+   - Dela denna sidan med bekanta, kollegor, grannar, familj och släkt
 
-* Bakgrund
-  Lunds kommun ämnar modernisera och riva historiska hus i kvarteret Galten,
-  vid Mårtenstorget, bland annat planeras ett 12-våningshus byggas, en
-  shoppinggalleria, och en stor biograf(!). Sista dag att lämna synpunkter
-  till kommunen blir den 26 oktober.
+* Mer information
   - Lunds Kommun
     - [[https://www.lund.se/globalassets/lund.se/traf_infra/detaljplaner-och-omra/kvarteret-galten/kvgaltenplankarta-2020-05-29.pdf][Plankarta]] (pdf)
     - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Kvarteret Galten]]
   - Arkitekturupproret
     - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
 
+  Wästbygg har redan börjat [[https://wastbyggvarahem.se/vara-hem/maartenstorgets-nya-upplevelsekvarter/][annonsera]] ut de tilltänkta lägenheterna.
+* Bli medlem i AFSL
+  Stöd vår aktionsgrupp ARG --- Aktion Rädda Galten!
+
+  Mejla namn, adress, mejladress till [[mailto:info@afsl.se][info@afsl.se]]. Medlemsavgift 50 kr/år.
+  Swisha Anitha Bruun [[file:img/qr.png][070 - 622 80 72]].
+
+  Mer info på [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook]].
+* Appendix                                                         :noexport:
+** överblivet
   Istället för att bygga smakfullt i en stil som passar in, (se tex.
   [[http://www.arkitekturupproret.se/2017/04/09/nyurbanism/][nyurbanism]]), väljer Lunds kommun att bygga bla. 12-våningshus, som kommer
   konkurrera med Lundapågarna i Lunds stadsprofil.
-
-  Wästbygg har redan börjat [[https://wastbyggvarahem.se/vara-hem/maartenstorgets-nya-upplevelsekvarter/][annonsera]] ut de tilltänkta lägenheterna.
-* Bli medlem i AFSL
-  Bli medlem och hjälp vår aktionsgrupp ARG - Aktion Rädda Galten. Mejla namn,
-  adress, mejladress till info@afsl.se. Medlemsavgift 50 kr/år. Swisha Anitha
-  Bruun [[file:img/qr.png][070 - 622 80 72]]. Mer info på [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook]].
-* Appendix                                                         :noexport:
 ** ARG - skrivunder.com
 
 Till Stadsbyggnadskontoret i Lunds kommun:
