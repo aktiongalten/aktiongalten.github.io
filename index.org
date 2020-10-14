@@ -29,19 +29,22 @@ informera om och debattera planerna på att exploatera kv. Galten vid Mårtensto
 #+ATTR_HTML: :class center no-border :width 50% :height
 [[file:img/höghus_carlsson.png]]
 
-Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* säger
-*NEJ* till:
-
-- *12-våningshus* i kvarter Galten intill Mårtenstorget.
-- *Förslaget att minska Vårfruskolans skolgård och låta barnen leka på taket till busshållplatsen.*
-- *Shoppinggalleria* med ingång från gården.
-- *Underjordiskt parkeringsgaragegarage i två plan på Mårtenstorget.* Kostnaden för de arkeologiska utgrävningarna innebär att kommunen enligt avtal i princip ger bort marken.
+Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* säger:
+- *NEJ* till:
+  - *12-våningshus* (40 m) i kvarter Galten intill Mårtenstorget.
+  - *Förslaget att minska Vårfruskolans skolgård och låta barnen leka på taket till busshållplatsen.*
+  - *Shoppinggalleria* och stor biograf
+  - *Underjordiskt parkeringsgaragegarage i två plan på Mårtenstorget.* Kostnaden för de arkeologiska utgrävningarna innebär att kommunen enligt avtal i princip ger bort marken.
+- *JA* till:
+  - Hus i lundaskalan som passar den historiska miljön
+  - Blandning av hyres- och bostadsrätter
+  - Grön skolgård i markplan till Vårfruskolan
+  - Torgplats på Mårtenstorget, bilparkering på eftermiddag och kväll
 
 * Vad kan jag som kommuninvånare göra?
+  Detaljplaneförslaget måste dras tillbaka. *Lämna dina synpunkter före 26/10*!
 ** 1. Skriv under
    Skriv under [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][HÄR]] för att protestera mot förslaget.
-
-   Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]] eller [[mailto:l.n@lennartnordarkitekt.se][l.n@lennartnordarkitekt.se]]
 ** 2. Kontakta Lunds politiker
    Mest effektivt är att ringa, eller skriva, till dina lokalpolitiker, följ guide [[file:ring.org][här]], (eller som
    pdf [[file:pdfs/Galten - vad vi kan göra!.pdf][här]]).
@@ -61,7 +64,7 @@ Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* s
    - Gå med i [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook-grupp]],
    - Sprid vår [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlisa]]
    - Sprid debattartikel av Thomas Hellquist:
-     [[https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/][https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/]]
+     /[[https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/][Därför bör planförslaget till kvarteret Galten skrotas]]/
      #   - och Arkitekturupproret [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
    - Skriv ut och sprid vår broschyr, kan laddas ner [[file:pdfs/ARGs folder om kv. Galten.pdf][här]]
    - Dela denna sidan med bekanta, kollegor, grannar, familj och släkt
@@ -72,6 +75,8 @@ Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* s
     - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Kvarteret Galten]]
   - Arkitekturupproret
     - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
+  - Kontakta AFSL:
+    - Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]] eller [[mailto:l.n@lennartnordarkitekt.se][l.n@lennartnordarkitekt.se]]
 
   Wästbygg har redan börjat [[https://wastbyggvarahem.se/vara-hem/maartenstorgets-nya-upplevelsekvarter/][annonsera]] ut de tilltänkta lägenheterna.
 * Bli medlem i AFSL
