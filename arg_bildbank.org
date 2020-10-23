@@ -7,92 +7,92 @@
 #+LANGUAGE: sv
 #+DESCRIPTION: ARGs bildbank
 
+#+TOC: headlines 3
+
 * Vårfruskolan
   Den föreslagna nya delen på skolgård till Vårfruskolans sex- till elva-åringar. Rampen går upp från skolgården till taket över bussarnas vändplats. Hur skulle det bli med rastvakter här
   på skolgårdens yttersta utpost? /Bilder från Marge Arkitekters presentation./
-  #+CAPTION: Bild 1
+  #+CAPTION: Lekplats på busshållsplatsen. Tryggt och säkert?
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-10-06-kl-15.49.47.png
 
-  #+CAPTION: Bild 2
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/2020-10-06-kl-15.51.19.png
-
-  #+CAPTION: Bild 3
+  #+CAPTION: Lekplats på busshållsplatsen. Tryggt och säkert?
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-10-06-kl-15.52.09.png
 
-  #+CAPTION: Bild 4
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/2020-10-06-kl-15.53.33.png
-
-  #+CAPTION: Bild 5
+  #+CAPTION: Lekplats på busshållsplatsen. Tryggt och säkert?
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-06-20-kl-14.05.55.png
 
+  #+CAPTION: plan
+  #+ATTR_HTML: :class center no-border :width 75% :height
+  file:img/2020-10-06-kl-15.53.33.png
+
 * Tolv-våningshuset / Mårtenstorget
 
-  #+CAPTION: Bild 6
+  #+CAPTION: 40 meter högt modernt 12-våningshus mitt i Lunds medeltida centrum
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/höghus_carlsson.png
 
-  #+CAPTION: Bild 7
+  #+CAPTION: 40 meter högt modernt 12-våningshus mitt i Lunds medeltida centrum
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/104413005_3336622159689795_8392694084798079304_o-kopia_2.jpg
 
-  #+CAPTION: Bild 8
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/105046800_803483873389585_2331902671814517991_n.jpg
-
-  #+CAPTION: Bild 9
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/121494223_415191489470360_2171518963850090349_n.jpg
-
-  #+CAPTION: Bild 10
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/2020-06-20-kl-14.06.17.png
-
-  #+CAPTION: Bild 11
+  #+CAPTION: Kvarteret Galten som det ser ut idag
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-09-11-kl-16.45.51.png
 
-  #+CAPTION: Bild 12
+  #+CAPTION: Modern glaslåda passar inte in med omkringliggande bebyggelse
+  #+ATTR_HTML: :class center no-border :width 75% :height
+  file:img/105046800_803483873389585_2331902671814517991_n.jpg
+
+  #+CAPTION: Modern glaslåda passar inte in med omkringliggande bebyggelse
+  #+ATTR_HTML: :class center no-border :width 75% :height
+  file:img/2020-06-20-kl-14.06.17.png
+
+  #+CAPTION: Här kommer solen skymmas på Mårtenstorget
+  #+ATTR_HTML: :class center no-border :width 75% :height
+  file:img/121494223_415191489470360_2171518963850090349_n.jpg
+
+  #+CAPTION: Gudars skymning, här läggs hela Mårtenstorget i skugga av höghuset.
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-09-18-kl-17.29.36.png
 
-  #+CAPTION: Bild 13
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/2020-10-04-kl-23.55.40.png
-
-  #+CAPTION: Bild 14
-  #+ATTR_HTML: :class center no-border :width 75% :height
-  file:img/2020-10-06-kl-15.48.58.png
-
-  #+CAPTION: Bild 15
+  #+CAPTION: Här kommer solen skymmas på Mårtenstorget
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/DSC_0077-650x433.jpg
 
-  #+CAPTION: Bild 16
+  #+CAPTION: Planområde
+  #+ATTR_HTML: :class center no-border :width 75% :height
+  file:img/2020-10-04-kl-23.55.40.png
+
+  #+CAPTION: Planområde
+  #+ATTR_HTML: :class center no-border :width 75% :height
+  file:img/2020-10-06-kl-15.48.58.png
+
+  #+CAPTION: Lundabo - af Munch, anno 2020
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2227.jpg
 
-  #+CAPTION: Bild 17
+  #+CAPTION: Lundabo - af Munch, anno 2020
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2228.jpg
 
-* Att rivas?
-** 1800-talshuset som ska rivas inne i kvarteret, från norr
-  och från söder. Lägg märke till att nockpannorna inte ligger på- medvetet förfall. Rivningslov har redan givits.
+* Att rivas
+** 1800-talshus
+   Detta hus skall rivas inne i kvarteret, från norr och från söder. Lägg
+   märke till att nockpannorna inte ligger på- medvetet förfall. Rivningslov
+   har redan givits.
 
-  #+CAPTION: Bild 18
+  #+CAPTION: Byggherre: "För pittoreskt, behövs mer modern glas och betong, i 12-våningar, det göder pengapåsen"
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/46517321_871597313046710_4207710890738319360_o.jpg
 
-  #+CAPTION: Bild 19
+  #+CAPTION: Byggherre, likt söpket laban: "Ta bort huset!"
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/Galten_23_1Högupplöst.jpg
 
-  #+CAPTION: Bild 20
+  #+CAPTION: Minner om en svunnen tid.
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/Galten_23_3.jpg
 
@@ -100,15 +100,15 @@
    Bílder från nuvarande skolgård på Vårfruskolan. Denna del kommer att naggas
    o förses med ramp upp till busstaket med burlek för små barn, ca.6-10 år.
 
-  #+CAPTION: Bild 21
+  #+CAPTION: Lekplatsen skall bli busshållsplats.
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2315.jpg
 
-  #+CAPTION: Bild 22
+  #+CAPTION: Lekplatsen skall bli busshållsplats.
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2316.jpg
 
-  #+CAPTION: Bild 23
+  #+CAPTION: Lekplatsen skall bli busshållsplats.
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2317.jpg
 
@@ -116,11 +116,11 @@
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4147.jpg
 
-  #+CAPTION: Bild 24
+  #+CAPTION: Växtlighet mitt i Kv. Galten
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4101.jpg
 
-  #+CAPTION: Bild 25
+  #+CAPTION: Växtlighet mitt i Kv. Galten
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4020.jpg
 
@@ -146,28 +146,28 @@
   veckor innan samrådstidens slut. /(OBS folk är inte tillfrågade om
   publicering!)/
 
-  #+CAPTION: Bild 26
+  #+CAPTION: ARG i aktion
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2420.jpg
 
-  #+CAPTION: Bild 27
+  #+CAPTION: ARG i aktion
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_2422.jpg
 * Texter
 
-  #+CAPTION: Bild 28
+  #+CAPTION: Skärmdump
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-10-04-kl-16.46.52.png
 
-  #+CAPTION: Bild 29
+  #+CAPTION: Skärmdump
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-10-05-kl-21.50.44.png
 
-  #+CAPTION: Bild 30
+  #+CAPTION: Skärmdump
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-10-05-kl-21.53.52.png
 
-  #+CAPTION: Bild 31
+  #+CAPTION: Skärmdump
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/2020-10-13-kl-14.57.14.png
 
@@ -180,7 +180,7 @@
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4114.jpg
 
-  #+CAPTION: Bild 32
+  #+CAPTION: Mårtenstorget
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4142.jpg
 
@@ -192,6 +192,7 @@
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4149.jpg
 
+  #+CAPTION: Mårtenstorget
   #+ATTR_HTML: :class center no-border :width 75% :height
   file:img/IMG_4151.jpg
 

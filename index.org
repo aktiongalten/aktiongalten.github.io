@@ -75,8 +75,11 @@ Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* s
     - [[https://www.lund.se/trafik--stadsplanering/byggprojekt/galten/?fbclid=IwAR3jG4Vbcu0idfMh3e7Xr571rJ_M9Yvrb_pE3RdOCXh_-RViqzr1H57Lqls][Kvarteret Galten]]
   - Arkitekturupproret
     - [[http://www.arkitekturupproret.se/2017/12/19/kvarteret-galten-en-del-av-lunds-stadskarna-far-nytt-utseende/][Kvarteret Galten – en del av Lunds stadskärna får nytt utseende]]
-  - Kontakta AFSL:
-    - Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]] eller [[mailto:l.n@lennartnordarkitekt.se][l.n@lennartnordarkitekt.se]]
+  - AFSL:
+    - [[file:arg_bildbank.org][Bildsamling]] över planritningar, bild på vad som skall rivas, nuvarande och
+      föreslagen bebyggelse
+    - Kontakta: Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]] eller [[mailto:l.n@lennartnordarkitekt.se][l.n@lennartnordarkitekt.se]]
+
 
   Wästbygg har redan börjat [[https://wastbyggvarahem.se/vara-hem/maartenstorgets-nya-upplevelsekvarter/][annonsera]] ut de tilltänkta lägenheterna.
 * Bli medlem i AFSL
