@@ -44,32 +44,34 @@ Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* s
   - Torgplats på Mårtenstorget, bilparkering på eftermiddag och kväll
 
 * Vad kan jag som kommuninvånare göra?
-  Detaljplaneförslaget måste dras tillbaka. *Lämna dina synpunkter före 26/10*!
-** 1. Skriv under
-   Skriv under [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][HÄR]] för att protestera mot förslaget.
-** 2. Kontakta Lunds politiker
-   Mest effektivt är att ringa, eller skriva, till dina lokalpolitiker, följ guide [[file:ring.org][här]], (eller som
-   pdf [[file:pdfs/Galten - vad vi kan göra!.pdf][här]]).
-** 3. Lämna synpunkter på detaljplanen till kommunen under samrådstiden t.o.m. 26/10 2020
-   Under samrådstiden kan invånarna i Lunds kommun ge synpunkter på kvarterets utformning.
-   Synpunkterna diarieförs och tas upp i byggnadsnämnden.
-   - Info och formulär för synpunkter digitalt [[https://www.lund.se/kvarteretgalten][www.lund.se/kvarteretgalten]]
-   - Som brev till: Stadsbyggnadskontoret, Box 41, 221 00 Lund
+Hittills har mängder med lundabor skickat in kritiska synpunkter på förslaget under
+samrådstiden fram till 26.10 2020.
 
-   Skriv ut färdigskrivet brev (pdf) [[file:pdfs/Galten - synpunkter till samråd om detaljplaneförslaget, Stadsbyggnadskontoret.pdf][här]] och skriv under!
-** 4. Sprid vidare
+** 1. Kontakta Lunds politiker
+Det i särklass bästa du kan göra nu är att kontakta de politiker som röstade för förslaget:
+- Partier röstade för detaljplaneförslaget: KD, L, M, MP, S, SD.
+- Partier som röstade emot: C, Fi, FNL, V.
+Skriv ut färdigskrivet brev (TODO pdf klickbar länk) och skriv under! Eller använd mallbrevet som inspiration för ett eget brev. Mejladresser och telnr. finns här (TODO pdf klickbar länk).
+
+Mejla både till politikerna i Kommunstyrelsen och deras ledamot i Byggnadsnämnden.
+# TODO: TABELL!
+
+** 2. Skriv under
+   Skriv under [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][HÄR]] för att protestera mot förslaget.
+
+** 3. Sprid vidare
    Sprid via *e-post* och *facebook* för kännedom till så många kommuninvånare
    som möjligt. Be dem att sprida vidare. Lundabornas nätverk är ofta stora
    och ett effektivt sätt att snabbt nå ut.
 
    Förslagsvis:
-   - Gå med i [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook-grupp]],
+   - Följ [[https://www.facebook.com/AFSLAktionsgrupperForSamhallsbyggnadiLundskommun][AFSLs]] och [[https://www.facebook.com/ARGAktionRaddaGalten/][ARGs]] facebook-sidor.
+   - Sprid [[TODO][protestbrevet till politikerna i Kommunstyrelsen]]
    - Sprid vår [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlisa]]
+   - Skriv ut och sprid vår [[file:pdfs/ARGs folder om kv. Galten.pdf][broschyr]] och [[TODO][särtrycket]]
    - Sprid debattartikel av Thomas Hellquist:
      /[[https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/][Därför bör planförslaget till kvarteret Galten skrotas]]/
-     #   - och Arkitekturupproret [[https://www.skrivunder.com/radda_galtens_historiska_hus_i_lund][lista]].
-   - Skriv ut och sprid vår broschyr, kan laddas ner [[file:pdfs/ARGs folder om kv. Galten.pdf][här]]
-   - Dela denna sidan med bekanta, kollegor, grannar, familj och släkt
+   - Dela sidan med bekanta, kollegor, grannar, familj och släkt
 
 * Mer information
   - Lunds Kommun
@@ -91,11 +93,10 @@ Kommunen har fått ett förslag till detaljplan för kvarter Galten där *ARG* s
   Mejla namn, adress, mejladress till [[mailto:info@afsl.se][info@afsl.se]]. Medlemsavgift 50 kr/år,
   vilket hjälper oss med kostnader för tryckning, kopiering, affischering och
   polistillstånd mm.
-  - Swisha Anitha Bruun [[file:img/qr.png][070 - 622 80 72]].
-  - Swisha direkt till nr 123 64 99 537
-  - Bankgiro 5568-0029
-
+  - Betalning till Swish  1236499537 eller betala till Bankgiro 5568-0029
+  # TODO: ny qr kod
   Mer info på [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook]].
+
 * Appendix                                                         :noexport:
 ** överblivet
   Istället för att bygga smakfullt i en stil som passar in, (se tex.
