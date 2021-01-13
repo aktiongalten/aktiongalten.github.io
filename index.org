@@ -72,8 +72,8 @@ Mejla både till politikerna i Kommunstyrelsen och deras ledamot i Byggnadsnämn
    Förslagsvis:
    - Följ [[https://www.facebook.com/AFSLAktionsgrupperForSamhallsbyggnadiLundskommun][AFSLs]] och [[https://www.facebook.com/ARGAktionRaddaGalten/][ARGs]] facebook-sidor.
    - Sprid [[file:pdfs/mallbrev till AFSL gamla hemsida.pdf][protestbrevet till politikerna i Kommunstyrelsen]]
-   - Sprid vår [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlisa]]
-   - Skriv ut och sprid vår [[file:pdfs/ARGs folder om kv. Galten.pdf][broschyr]] och särktrycket.
+   - Sprid vår [[https://www.skrivunder.com/radda_kv_galten_i_lund_lundapolitiker__dra_tillbaka_detaljplanen_for_kv_galten_vid_martenstorget_gor_ett_nytt_forslag_pa_detaljplan_som_tar_hansyn_till_lundabornas_asikter_nedan][protestlista]]
+   - Skriv ut och sprid vår [[file:pdfs/ARGs folder om kv. Galten.pdf][broschyr]] och särtrycket.
 # TODO: länk
    - Sprid debattartikel av Thomas Hellquist:
      /[[https://nyheterilund.se/2020/10/07/debatt-darfor-bor-planforslaget-till-kvarteret-galten-skrotas/][Därför bör planförslaget till kvarteret Galten skrotas]]/
@@ -88,7 +88,7 @@ Mejla både till politikerna i Kommunstyrelsen och deras ledamot i Byggnadsnämn
   - AFSL:
     - [[file:arg_bildbank.org][Bildsamling]] över planritningar, bild på vad som skall rivas, nuvarande och
       föreslagen bebyggelse
-    - Kontakta: Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]] eller [[mailto:l.n@lennartnordarkitekt.se][l.n@lennartnordarkitekt.se]]
+    - Kontakta: Vill du veta mer, göra mer, maila [[mailto:info@afsl.se][info@afsl.se]].
     - /Yttrande från AFSL gällande Planbeskrivning. Detaljplan för kvarteret Galten i Lund/ ([[file:AFSL yttrande GALTEN 1020.pdf][pdf]])
     - Pressmeddelande: /AFSL underkänner kommunens Galtenplan/ ([[file:AFSL.Pressmeddelande26okt2020.pdf][pdf]])
 
