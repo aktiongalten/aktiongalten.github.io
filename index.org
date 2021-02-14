@@ -103,6 +103,8 @@ Mejla både till politikerna i Kommunstyrelsen och deras ledamot i Byggnadsnämn
   Betalning till Swish 1236499537 eller betala till Bankgiro 5568-0029.
 # TODO Betalning till Swish [[file:img/qr-placeholder.png][1236499537]] eller betala till Bankgiro 5568-0029.
 
+  Föreningens stadgar finns tillgängliga som [[file:pdfs/AFSL.Stadgar.Antagna 1 sept 2020.pdf][pdf]].
+
   Mer info på [[https://www.facebook.com/ARGAktionRaddaGalten/][AFSLs facebook]].
 
 * Appendix                                                         :noexport:
